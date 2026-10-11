@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHhGXKa5n7g=",
+  "success": true,
+  "projectFilePath": "D:\\000Home\\KPO\\hw-1\\VyshKat.App\\VyshKat.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Феликс\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\Феликс\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
